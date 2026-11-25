@@ -1,0 +1,6 @@
+{
+  "name": "VERIX",
+  "description": "AI-powered Job Scam Detector & Safe Career Ecosystem for students and job seekers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
